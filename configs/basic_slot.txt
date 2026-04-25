@@ -1,0 +1,4 @@
+Simple placeholder config
+Symbols: 0-9
+3 reels
+Match all 3 => payout 10
